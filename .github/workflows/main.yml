@@ -19,5 +19,5 @@ jobs:
         with:
           msgtype: text
           # content: "记得填写一下每日计划 \n ${{secrets.DOCUMENT_URL}}\n"
-          content: "记得填写一下每日内容"
+          content: "记得发送每日工作内容"
           mentioned_list: '["@all"]'
